@@ -1,5 +1,6 @@
 package com.sysone.exercisebackend.services;
 
+import com.sysone.exercisebackend.domain.Candidate;
 import org.springframework.stereotype.Service;
 
 @Service

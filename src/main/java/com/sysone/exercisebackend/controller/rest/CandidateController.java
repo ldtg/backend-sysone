@@ -1,6 +1,6 @@
 package com.sysone.exercisebackend.controller.rest;
 
-import com.sysone.exercisebackend.services.Candidate;
+import com.sysone.exercisebackend.domain.Candidate;
 import com.sysone.exercisebackend.services.CandidateService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

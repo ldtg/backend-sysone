@@ -1,5 +1,6 @@
 package com.sysone.exercisebackend.services;
 
+import com.sysone.exercisebackend.domain.Candidate;
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 import org.junit.Test;
 
